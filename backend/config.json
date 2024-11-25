@@ -1,0 +1,6 @@
+{
+    "MONGO_URI": "mongodb://root:example@hub.topomatic.ru:27018/",
+    "MONGO_DB": "cloud-next",
+    "MONGO_CA": null,
+    "CORS_ORIGINS": "*"
+}
